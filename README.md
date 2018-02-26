@@ -1,6 +1,6 @@
 full-ci-cd
 ==========
-![version](https://img.shields.io/github/release/dmodena/full-ci-cd.svg)
+![version](https://img.shields.io/github/tag/dmodena/full-ci-cd.svg)
 ![license](https://img.shields.io/github/license/dmodena/full-ci-cd.svg)
 ![build](https://travis-ci.org/dmodena/full-ci-cd.svg?branch=master)
 
