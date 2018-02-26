@@ -3,3 +3,7 @@ node_js:
   - "8"
 script:
   - "npm run test"
+deploy:
+  provider: heroku
+  api_key:
+    secure: 99ee1222-6970-4b4c-8368-5fa2a7b0ee25
